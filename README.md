@@ -1,2 +1,2 @@
 # Gaussian-Process
-Códigos de processos gaussianos
+Códigos de processos gaussianos, tanto do meu artigo (arXiv:2311.14216v1) quanto do artigo do Felipe (sendo feito ainda). No meu artigo, fizemos uma reconstrução do índice de crescimento a partir de dados de f, fs8 e H (cronômetros cósmicos). Tentamos obter a reconstrução de H a partir dos dados de SNIa, porém a curva obtida foi muito ruim. O artigo do Felipe será um estudo da relação de Etherington e, com as reconstrução da distância de luminosidade e da distância de diâmetro angular, pode ser obtida uma reconstrução de H(z).
